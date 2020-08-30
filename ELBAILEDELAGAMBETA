@@ -1,0 +1,90 @@
+Microemprendimiento a futuro "El Baile De La Gambeta"
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"El Baile De La Gambeta" Futbol 5</title>
+
+    <h1>El Baile De La Gambeta</h1>
+
+    <img src="image3.jpg" alt="" srcset="" width="500px" style="display: block;">
+
+    <h3>Ubicación: San fernando; Provincia de Buenos Aires, Argentina</h3>  
+     
+    <link rel="stylesheet" href="estilos.css">
+
+
+
+
+ <body>
+    
+    <h5>¿Quienes somos?</h5>
+
+    <p id="mi_parrafo" >  El Baile De La Gambeta es un microemprendimiento a futuro pensado por un grupo de amigos con el fin de crear un predio con tres canchas de futbol de futbol y agregarle una zona de star/bar en la cual las personas podran realizar un post partido, o inclusive disfrutar simplemente de un licuado, bebida o comida , ademas de tener por las noches un ambiente juvenil para pasarla bien juntoa con tus amigos con la compañia de buena musica y un clima ideal.</p>
+    
+   
+    <div>
+        <img id="messi" src="fondoborroso.jpg.jpg" alt="" srcset="" width="500px">
+        <br>
+        <button onclick=" document.getElementById ('messi').src='MESSI.jpg' ">Creadores</button>  
+    </div>
+
+   
+    <div>
+       <p id="mi_parrafo2" > Redes sociales/Contacto:</p>
+       <img src ="instagram.jpg" alt="" srcset="" width="60px">
+       <br>
+       <a id="instagram" href ="https://www.instagram.com/?hl=es-la"> Instagram </a>
+       <p id="contacto"> Contacto:1533828428</p>
+
+    </div>
+
+</body>
+
+<div>
+    
+   
+   <img src="GRUNNOTA.jpg" alt="" srcset="" width="500px"  style="display: block;">
+
+
+
+   <img src="800_600_heroes-futbol-2.jpg" alt="" srcset="" width="500px"  style="display: block;">
+
+  
+   <img src="250917__-__Antares_Guemes_ph_G_Viramonte-7896.jpg" alt="" srcset="" width="500PX"  style="display: block;">
+
+ 
+
+   <img src="unnamed.jpg" alt="" srcset="" width="500px">
+</div>
+
+<h4>Idea de instalación y finalización de las 3 canchas:</h4>
+<iframe width="500" height="315" src="https://www.youtube.com/embed/tZiXAthE1XQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<div id="formulario">
+ <label id="nombre">Nombre y Apellido</label>
+ <input id="nombre1" type="text">
+ <label id="email">e-mail</label>
+ <input id="email1" type="email">
+ <label id="telefono">Telefono</label>
+ <input id="telefono1" type="text">
+ <label id="Consultas">Consultas</label>
+ <input id="consultas1" type="text">
+ <input type="submit">
+
+</div>
+
+
+
+
+
+
+
+
+
+</html>
